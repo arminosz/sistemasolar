@@ -1,7 +1,7 @@
 
 # 🌌 Solar System Simulation
 
-Welcome to the **Solar System Simulation**, a real-time accelerated map of our solar system created in **Java**. This program visualizes the planets orbiting around the Sun at an accelerated speed of **1 day per second**, making it easy to observe the dynamics of our celestial neighbors
+The **Solar System Simulation** is a real-time accelerated map of our solar system created in **Java**. This program visualizes the planets orbiting around the Sun at an accelerated speed of **1 day per second**, making it easy to observe the dynamics of our celestial neighbors
 
 ## 🚀 Features
 <sub>Note: This program is a amateur and totally inaccurate simulation and not intended for educational purposes. Always consult professional astronomical resources for accurate information </sub>
@@ -36,9 +36,9 @@ Welcome to the **Solar System Simulation**, a real-time accelerated map of our s
 
 ### Usage
 
-1. Upon running the program, a window will open displaying the solar system.
-2. You can change the speed of the simulation by clicking the **Speed** button in the top panel.
-3. Click on any planet to view detailed information, such as size, orbital period, and current position.
+1. Upon running the program, a window will open displaying the solar system
+2. You can change the speed of the simulation by clicking the **Speed** button in the top panel
+3. Click on any planet to view detailed information, such as size, orbital period, Delta-V for hohmann transfer etc
 
 ### Controls
 
